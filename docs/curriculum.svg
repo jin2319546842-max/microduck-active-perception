@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="770" viewBox="0 0 1080 770" role="img" aria-label="Curriculum scene layouts: blue start, green goal, orange walls">
+<rect width="1080" height="770" fill="#f1f5f7"/>
+<text x="24" y="32" font-family="sans-serif" font-size="22" fill="#143947">Microduck: proposed active-perception curriculum</text>
+<rect x="20" y="60" width="335" height="300" rx="8" fill="#19364b"/>
+<text x="32" y="85" font-family="sans-serif" font-size="16" fill="white">C0: Goal reaching</text>
+<path d="M 79.5 102 v 240 M 58 330.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 106.5 102 v 240 M 58 303.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 133.5 102 v 240 M 58 276.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 160.5 102 v 240 M 58 249.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 187.5 102 v 240 M 58 222.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 214.5 102 v 240 M 58 195.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 241.5 102 v 240 M 58 168.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 268.5 102 v 240 M 58 141.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 295.5 102 v 240 M 58 114.0 h 259" stroke="#355365" stroke-width=".6"/>
+<circle cx="144.3" cy="297.6" r="8" fill="#54bdff"/><text x="155.3" y="302.6" font-family="sans-serif" font-size="14" fill="white">S</text>
+<circle cx="230.7" cy="146.4" r="8" fill="#22e450"/><text x="241.7" y="151.4" font-family="sans-serif" font-size="14" fill="white">G</text>
+<rect x="375" y="60" width="335" height="300" rx="8" fill="#19364b"/>
+<text x="387" y="85" font-family="sans-serif" font-size="16" fill="white">C1: Left / right opening</text>
+<path d="M 434.5 102 v 240 M 413 330.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 461.5 102 v 240 M 413 303.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 488.5 102 v 240 M 413 276.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 515.5 102 v 240 M 413 249.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 542.5 102 v 240 M 413 222.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 569.5 102 v 240 M 413 195.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 596.5 102 v 240 M 413 168.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 623.5 102 v 240 M 413 141.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 650.5 102 v 240 M 413 114.0 h 259" stroke="#355365" stroke-width=".6"/>
+<rect x="504.7" y="219.3" width="145.8" height="5.4" fill="#ff771f"/>
+<circle cx="542.5" cy="276" r="8" fill="#54bdff"/><text x="553.5" y="281" font-family="sans-serif" font-size="14" fill="white">S</text>
+<circle cx="553.3" cy="168" r="8" fill="#22e450"/><text x="564.3" y="173" font-family="sans-serif" font-size="14" fill="white">G</text>
+<rect x="730" y="60" width="335" height="300" rx="8" fill="#19364b"/>
+<text x="742" y="85" font-family="sans-serif" font-size="16" fill="white">C2: Enclosure divider</text>
+<path d="M 789.5 102 v 240 M 768 330.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 816.5 102 v 240 M 768 303.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 843.5 102 v 240 M 768 276.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 870.5 102 v 240 M 768 249.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 897.5 102 v 240 M 768 222.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 924.5 102 v 240 M 768 195.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 951.5 102 v 240 M 768 168.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 978.5 102 v 240 M 768 141.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 1005.5 102 v 240 M 768 114.0 h 259" stroke="#355365" stroke-width=".6"/>
+<rect x="787.07" y="114.0" width="4.859999999999999" height="216" fill="#ff771f"/>
+<rect x="1003.07" y="114.0" width="4.859999999999999" height="216" fill="#ff771f"/>
+<rect x="789.5" y="111.57000000000001" width="216" height="4.859999999999999" fill="#ff771f"/>
+<rect x="789.5" y="327.57" width="216" height="4.859999999999999" fill="#ff771f"/>
+<rect x="895.07" y="184.2" width="4.859999999999999" height="145.8" fill="#ff771f"/>
+<circle cx="846.2" cy="222" r="8" fill="#54bdff"/><text x="857.2" y="227" font-family="sans-serif" font-size="14" fill="white">S</text>
+<circle cx="938.0" cy="246.3" r="8" fill="#22e450"/><text x="949.0" y="251.3" font-family="sans-serif" font-size="14" fill="white">G</text>
+<rect x="20" y="380" width="335" height="300" rx="8" fill="#19364b"/>
+<text x="32" y="405" font-family="sans-serif" font-size="16" fill="white">C2: T-shaped occlusion</text>
+<path d="M 79.5 422 v 240 M 58 650.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 106.5 422 v 240 M 58 623.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 133.5 422 v 240 M 58 596.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 160.5 422 v 240 M 58 569.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 187.5 422 v 240 M 58 542.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 214.5 422 v 240 M 58 515.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 241.5 422 v 240 M 58 488.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 268.5 422 v 240 M 58 461.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 295.5 422 v 240 M 58 434.0 h 259" stroke="#355365" stroke-width=".6"/>
+<rect x="133.5" y="458.3" width="151.2" height="5.4" fill="#ff771f"/>
+<rect x="184.8" y="461.0" width="5.4" height="108" fill="#ff771f"/>
+<rect x="101.1" y="636.5" width="194.4" height="5.4" fill="#ff771f"/>
+<circle cx="138.9" cy="551.72" r="8" fill="#54bdff"/><text x="149.9" y="556.72" font-family="sans-serif" font-size="14" fill="white">S</text>
+<circle cx="257.7" cy="552.8" r="8" fill="#22e450"/><text x="268.7" y="557.8" font-family="sans-serif" font-size="14" fill="white">G</text>
+<rect x="375" y="380" width="335" height="300" rx="8" fill="#19364b"/>
+<text x="387" y="405" font-family="sans-serif" font-size="16" fill="white">C2: Three-sided obstacles</text>
+<path d="M 434.5 422 v 240 M 413 650.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 461.5 422 v 240 M 413 623.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 488.5 422 v 240 M 413 596.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 515.5 422 v 240 M 413 569.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 542.5 422 v 240 M 413 542.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 569.5 422 v 240 M 413 515.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 596.5 422 v 240 M 413 488.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 623.5 422 v 240 M 413 461.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 650.5 422 v 240 M 413 434.0 h 259" stroke="#355365" stroke-width=".6"/>
+<rect x="504.7" y="482.6" width="97.2" height="5.4" fill="#ff771f"/>
+<rect x="466.9" y="515.0" width="5.4" height="54" fill="#ff771f"/>
+<rect x="493.9" y="596.0" width="118.80000000000001" height="5.4" fill="#ff771f"/>
+<circle cx="542.5" cy="647.3" r="8" fill="#54bdff"/><text x="553.5" y="652.3" font-family="sans-serif" font-size="14" fill="white">S</text>
+<circle cx="577.6" cy="542" r="8" fill="#22e450"/><text x="588.6" y="547" font-family="sans-serif" font-size="14" fill="white">G</text>
+<rect x="730" y="380" width="335" height="300" rx="8" fill="#19364b"/>
+<text x="742" y="405" font-family="sans-serif" font-size="16" fill="white">C3: Repeated decisions</text>
+<path d="M 789.5 422 v 240 M 768 650.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 816.5 422 v 240 M 768 623.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 843.5 422 v 240 M 768 596.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 870.5 422 v 240 M 768 569.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 897.5 422 v 240 M 768 542.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 924.5 422 v 240 M 768 515.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 951.5 422 v 240 M 768 488.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 978.5 422 v 240 M 768 461.0 h 259" stroke="#355365" stroke-width=".6"/>
+<path d="M 1005.5 422 v 240 M 768 434.0 h 259" stroke="#355365" stroke-width=".6"/>
+<rect x="854.3" y="571.7" width="151.2" height="5.4" fill="#ff771f"/>
+<rect x="789.5" y="482.6" width="145.8" height="5.4" fill="#ff771f"/>
+<circle cx="897.5" cy="641.9" r="8" fill="#54bdff"/><text x="908.5" y="646.9" font-family="sans-serif" font-size="14" fill="white">S</text>
+<circle cx="924.5" cy="442.1" r="8" fill="#22e450"/><text x="935.5" y="447.1" font-family="sans-serif" font-size="14" fill="white">G</text>
+<text x="24" y="724" font-family="sans-serif" font-size="17" fill="#143947">C4: mix C1-C3 + mirrored layouts + scale variation + ToF noise / dropout</text>
+<text x="24" y="752" font-family="sans-serif" font-size="14" fill="#476575">S = start | G = goal | These are curriculum designs, not training results. No paths are supplied to the policy.</text>
+</svg>

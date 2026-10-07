@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "status": "proposed_local_adaptation_not_paper_hyperparameters",
+  "history_length": 8,
+  "control_dt": 0.1,
+  "max_episode_steps": 500,
+  "robot_radius_m": 0.12,
+  "range_m": 4.0,
+  "previous_stage_probability": 0.2,
+  "promotion": {"min_stage_steps": 10000, "validation_episodes": 20, "success_rate": 0.8, "max_collision_rate": 0.1, "consecutive_passes": 3},
+  "stages": [
+    {"id": 0, "name": "C0: goal reaching", "families": ["empty"], "scale_range": [0.95, 1.05], "noise_std_m": 0.0, "dropout": 0.0},
+    {"id": 1, "name": "C1: left/right opening", "families": ["single"], "scale_range": [0.9, 1.1], "noise_std_m": 0.0, "dropout": 0.0},
+    {"id": 2, "name": "C2: occluded corners", "families": ["enclosure", "tee", "three_sides"], "scale_range": [0.9, 1.15], "noise_std_m": 0.005, "dropout": 0.01},
+    {"id": 3, "name": "C3: repeated decisions", "families": ["staggered"], "scale_range": [0.9, 1.15], "noise_std_m": 0.01, "dropout": 0.02},
+    {"id": 4, "name": "C4: mixed and noisy", "families": ["single", "enclosure", "tee", "three_sides", "staggered"], "scale_range": [0.85, 1.2], "noise_std_m": 0.025, "dropout": 0.08}
+  ]
+}
